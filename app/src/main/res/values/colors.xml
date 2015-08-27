@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--app主色调-->
+    <color name="color_primary">#0077d9</color>
+    <color name="color_primary_light">#3392e1</color>
+    <color name="color_primary_dark">#006cc5</color>
+    <color name="trans_color_primary">#5503a9f4</color>
+    <color name="light_black">#424242</color>
+
+    <color name="black">#ff000000</color>
+    <color name="white">#ffffff</color>
+
+</resources>
